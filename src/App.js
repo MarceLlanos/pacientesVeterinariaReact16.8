@@ -49,7 +49,8 @@ class App extends Component {
 	render() { 
 		return (  
 			<div className="container">
-				<Header title ="Administrador Pacientes Veterinaria" />
+
+				<Header title = 'Administrador de pacientes veterianaria'/>
 
 				<div className="row">
 					<div className="col-md-10 mx-auto">
